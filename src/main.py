@@ -1,5 +1,5 @@
 def main():
-    print("DocuMind AI iniciado com sucesso.")
+    print("DocuMind AI started successfully.")
 
 if __name__ == "__main__":
     main()
